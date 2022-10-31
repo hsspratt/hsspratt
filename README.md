@@ -2,7 +2,7 @@
 - 👀 I’m interested in improving my python coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on n body simulations possibly simulating clusters
-- 📫 How to reach me ppyhss@nottingham.ac.uk
+- 📫 How to reach me spratths@gmail.com
 
 <!---
 hsspratt/hsspratt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
