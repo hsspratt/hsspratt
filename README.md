@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hsspratt
 - 👀 I’m interested in improving my python coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on n body simulations possibly simulating clusters
+- 💞️ I’m looking to collaborate on interesting projects, I espically like mixing finance with technology!
 - 📫 How to reach me spratths@gmail.com
 
 <!---
